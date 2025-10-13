@@ -1,5 +1,5 @@
-# MMSMOA 2024 GitHub Pages Demo
+# MMS Music 2025 GitHub Pages Demo
 
-Hello, good folks of Lakes A!
+Hello, good folks of Interchange at Nashville!
 
 Thanks for coming!
