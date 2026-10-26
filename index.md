@@ -1,5 +1,5 @@
-# MMS Music 2025 GitHub Pages Demo
+# MMS Midway 2026 GitHub Pages Demo
 
-Hello, good folks of Interchange at Nashville!
+Hello, fellow wingpeople!
 
 Thanks for coming!
